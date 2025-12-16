@@ -248,6 +248,14 @@
   border: 2px dashed #e2e8f0;
 }
 
+.map-wrapper {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
 .map-content {
   display: flex;
   flex-direction: column;
